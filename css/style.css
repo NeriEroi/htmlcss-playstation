@@ -55,16 +55,21 @@ header .row:last-child .jumbo_text .returnal_cont img {
 
 /* MAIN */
 
-main .row {
+#first_section .row {
     min-height: 200px;
     display: flex;
     justify-content: space-around;
     background-color: royalblue;
 }
 
-main .col-lg-1 {
+#first_section .row .col-lg-1 {
     background-color: red;
 }
+
+#second_section .row {
+    margin-top: 50px;
+}
+
 
 /* / MAIN */
 
