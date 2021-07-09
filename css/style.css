@@ -12,7 +12,17 @@
     line-height: 40px;
 }
 
+.first_nav {
+    width: 82%;
+}
 
+.second_nav {
+    width: 18%;
+}
+
+.second_nav .accedi {
+    margin: 0 50px 0 50px;
+}
 
 
 
