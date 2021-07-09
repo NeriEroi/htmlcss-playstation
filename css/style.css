@@ -58,11 +58,15 @@ header .row:last-child .jumbo_text .returnal_cont img {
     min-height: 200px;
     display: flex;
     justify-content: space-around;
-    background-color: royalblue;
 }
 
-#first_section .row .col-lg-1 {
-    background-color: red;
+#first_section .row .item_cont {
+    width: 110px;
+}
+
+#first_section .row .item_cont img {
+    width: 100%;
+    border-radius: 20px;
 }
 
 #second_section .row {
