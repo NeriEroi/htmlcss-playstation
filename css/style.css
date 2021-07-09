@@ -13,11 +13,11 @@
 }
 
 .first_nav {
-    width: 82%;
+    width: 75%;
 }
 
 .second_nav {
-    width: 18%;
+    width: 25%;
 }
 
 .second_nav .accedi {
@@ -50,5 +50,21 @@ header .row:last-child .jumbo_text .returnal_cont img {
     width: 100%;
 }
 
-
 /* / HEADER */
+
+
+/* MAIN */
+
+main .row {
+    min-height: 200px;
+    display: flex;
+    justify-content: space-around;
+    background-color: royalblue;
+}
+
+main .col-lg-1 {
+    background-color: red;
+}
+
+/* / MAIN */
+
