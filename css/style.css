@@ -34,7 +34,6 @@ header .row:last-child .jumbo_text {
     bottom: 100px;
  }
 
-
 header .row:last-child .jumbo_text .returnal_cont {
     width: 300px;
     margin-bottom: 50px;
@@ -87,6 +86,30 @@ header .row:last-child .jumbo_text .returnal_cont img {
 }
 
 #third_section .row .item_cont img {
+    width: 100%;
+}
+
+#fourth_section .row:first-child {
+    margin-top: 50px;
+}
+
+#fourth_section .bg_c {
+    background-color: #000000b6;
+}
+
+#fourth_section .row .img_cont {
+    width: 100%;
+}
+
+#fourth_section .row .img_cont img {
+    width: 100%;
+}
+
+#fourth_section .row .item_cont {
+    width: 150px;
+}
+
+#fourth_section .row .item_cont img {
     width: 100%;
 }
 
