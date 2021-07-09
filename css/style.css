@@ -113,5 +113,13 @@ header .row:last-child .jumbo_text .returnal_cont img {
     width: 100%;
 }
 
+#fifth_section .row:last-child .item_cont {
+    width:400px;
+}
+
+#fifth_section .row:last-child .item_cont img {
+    width: 100%;
+}
+
 /* / MAIN */
 
