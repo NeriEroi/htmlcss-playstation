@@ -24,6 +24,31 @@
     margin: 0 50px 0 50px;
 }
 
+header .row:last-child {
+   position: relative;
+}
+
+header .row:last-child .jumbo_text {
+    position: absolute;
+    left: 60px;
+    bottom: 100px;
+ }
+
+
+header .row:last-child .jumbo_text .returnal_cont {
+    width: 300px;
+    margin-bottom: 50px;
+}
+
+header .row:last-child .jumbo_text button {
+    width: 150px;
+    border: none;
+    background-color: red;
+}
+
+header .row:last-child .jumbo_text .returnal_cont img {
+    width: 100%;
+}
 
 
 /* / HEADER */
