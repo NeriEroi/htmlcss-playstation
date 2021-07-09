@@ -70,6 +70,25 @@ header .row:last-child .jumbo_text .returnal_cont img {
     margin-top: 50px;
 }
 
+#third_section .row {
+    margin-top: 50px;
+}
+
+#third_section .row .plays_cont {
+    width: 500px;
+}
+
+#third_section .row .plays_cont img {
+    width: 100%;
+}
+
+#third_section .row .item_cont {
+    width: 100px;
+}
+
+#third_section .row .item_cont img {
+    width: 100%;
+}
 
 /* / MAIN */
 
