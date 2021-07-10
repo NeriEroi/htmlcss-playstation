@@ -137,5 +137,21 @@ header .row:last-child .jumbo_text .returnal_cont img {
     width: 100%;
 }
 
+#eighth_section .row .img_cont {
+    width: 300px;
+}
+
+#eighth_section .row .img_cont img {
+    width: 100%;
+}
+
+#eighth_section .row .img_cont2 {
+    width: 600px;
+}
+
+#eighth_section .row .img_cont2 img {
+    width: 100%;
+}
+
 /* / MAIN */
 
