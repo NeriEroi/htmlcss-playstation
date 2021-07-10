@@ -129,5 +129,13 @@ header .row:last-child .jumbo_text .returnal_cont img {
     width: 100%;
 }
 
+#seventh_section .row .img_cont {
+    width: 290px;
+}
+
+#seventh_section .row .img_cont img {
+    width: 100%;
+}
+
 /* / MAIN */
 
