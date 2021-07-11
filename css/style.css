@@ -163,3 +163,15 @@ header .row:last-child .jumbo_text .returnal_cont img {
 
 /* / MAIN */
 
+
+/* FOOTER */
+
+footer .row:last-child .img_cont {
+    width: 150px;
+}
+
+footer .row:last-child .img_cont img {
+    width: 100%;
+}
+
+/* / FOOTER */
